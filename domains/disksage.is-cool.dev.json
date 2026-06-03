@@ -1,0 +1,13 @@
+{
+    "description": "DiskSage — a free, open-source macOS disk cleaner with a safety advisor.",
+    "domain": "is-cool.dev",
+    "subdomain": "disksage",
+    "owner": {
+        "repo": "https://github.com/stealthdev-labs/disksage",
+        "email": "lloaltie+disksage@gmail.com"
+    },
+    "record": {
+        "CNAME": "stealthdev-labs.github.io"
+    },
+    "proxied": false
+}
